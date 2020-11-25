@@ -27,7 +27,7 @@
    
   ##### Mobile and tablet version
    - burger menu 
-   - horisontal slider in sections "School benefits", "Our Team", "Gallery";
+   - horizontal slider in sections "School benefits", "Our Team", "Gallery";
 
   ##### Local Storage
    - keep language setting after page reload;
