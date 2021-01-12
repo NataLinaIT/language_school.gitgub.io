@@ -12,7 +12,7 @@
   <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_desktop.gif?raw=true" alt="screenshot" >
 </div>
 
-<h3 align="center"> :mobile: Mobile adaptive</h3>
+<h3 align="center"> :iphone: Mobile </h3>
 <div align="center">
   <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_mobile.gif?raw=true" alt="screenshot" >
 </div>
