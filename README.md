@@ -7,12 +7,12 @@
 * Gulp
 * GSAP
 
-### Desktop
+<h3 align="center">Desktop</h3>
 <div align="center">
   <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_desktop.gif?raw=true" alt="screenshot" >
 </div>
 
-### Mobile adaptive
+<h3 align="center">Mobile adaptive</h3>
 <div align="center">
   <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_mobile.gif?raw=true" alt="screenshot" >
 </div>
