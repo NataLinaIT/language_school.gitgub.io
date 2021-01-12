@@ -1,18 +1,18 @@
 # UX/UI Design and Frontend development of Landing page for English language School
 
-### Technologies used in the development process:
+### :rocket: Technologies used in the development process:
 * HTML5
 * SCSS
 * JavaScript
 * Gulp
 * GSAP
 
-<h3 align="center">Desktop</h3>
+<h3 align="center"> :computer: Desktop</h3>
 <div align="center">
   <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_desktop.gif?raw=true" alt="screenshot" >
 </div>
 
-<h3 align="center">Mobile adaptive</h3>
+<h3 align="center"> :mobile: Mobile adaptive</h3>
 <div align="center">
   <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_mobile.gif?raw=true" alt="screenshot" >
 </div>
