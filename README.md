@@ -7,6 +7,16 @@
 * Gulp
 * GSAP
 
+### Desktop
+<div align="center">
+  <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_desktop.gif?raw=true" alt="screenshot" >
+</div>
+
+### Mobile adaptive
+<div align="center">
+  <img src="https://github.com/NataLinaIT/language_school.gitgub.io/blob/main/img/englalend_mobile.gif?raw=true" alt="screenshot" >
+</div>
+
 #### Project functionality includes:
   - Adaptivity for mobile and tablet devices;
   - Crossbrowser compatiblity;
